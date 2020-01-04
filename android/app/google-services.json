@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "722085074847",
+    "firebase_url": "https://blog-8c8f3.firebaseio.com",
+    "project_id": "blog-8c8f3",
+    "storage_bucket": "blog-8c8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722085074847:android:fb87aaae5c13c598cbcfaa",
+        "android_client_info": {
+          "package_name": "tk.siddhmistry.blogger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722085074847-k478jbb6704hqsf1p41bebd75tn5oinm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4nnSAzwboj0WB-Nyv2STswIO0fHFwQY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722085074847-k478jbb6704hqsf1p41bebd75tn5oinm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
